@@ -37,5 +37,3 @@ python tp1.py
 # See examples
 python example_usage.py
 ```
-
-All visualizations are saved to the outputs directory.
